@@ -1,0 +1,9 @@
+{
+    "scripts": {
+      "lint": "eslint .",
+      "prettier": "prettier --write .",
+      "test": "jest",
+      "build": "your-build-command"
+    }
+  }
+  
